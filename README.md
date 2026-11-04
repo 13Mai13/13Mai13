@@ -1,8 +1,12 @@
 ### Hi, I'm Mai 👋
 
-I'm an ML engineer working on AI security.
+I'm an engineer working on AI safety and security.
 
 I'm interested in what capable AI systems can do in adversarial environments: how agents fail, how to red-team them, and how to build evaluations and safeguards that give defenders the advantage.
+
+### Working on now
+
+- [agent-vcs](https://github.com/13Mai13/agent-vcs): source control for a world where most clients are agents, from scratch in Rust. Design first, nothing works yet.
 
 ### What's here
 
@@ -13,7 +17,7 @@ Most repos below are archived learning projects and short MVPs. Each README says
 - [inbox-search](https://github.com/13Mai13/inbox-search): semantic search over my open browser tabs
 - [pycones23](https://github.com/13Mai13/pycones23): my PyConES 2023 talk on ML experimentation with MLflow
 
-Work on AI security and agentic systems is coming. I'll pin it here when it's worth showing.
+Work on AI safety and security is coming. I'll pin it here when it's worth showing.
 
 ### Elsewhere
 
