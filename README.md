@@ -1,6 +1,6 @@
 ### Hi, I'm Mai 👋
 
-I'm an ML engineer working on AI security at [XBOW](https://xbow.com), where we build autonomous offensive-security agents.
+I'm an ML engineer working on AI security.
 
 I'm interested in what capable AI systems can do in adversarial environments: how agents fail, how to red-team them, and how to build evaluations and safeguards that give defenders the advantage.
 
