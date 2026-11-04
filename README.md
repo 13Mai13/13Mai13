@@ -18,5 +18,5 @@ Work on AI security and agentic systems is coming. I'll pin it here when it's wo
 ### Elsewhere
 
 - Writing: [AI by Mai](https://www.aibymai.dev/)
-- Newsletter: [AI by Mai on Substack](https://aibymai.substack.com), bi-weekly on AI engineering and cybersecurity, starting 2027
+- Newsletter: [AI by Mai on Substack](https://aibymai.substack.com), every two weeks on AI engineering and cybersecurity, starting 2027
 - [LinkedIn](https://www.linkedin.com/in/mai-berrondo-43197b94/)
